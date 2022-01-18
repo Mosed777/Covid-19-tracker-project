@@ -1,12 +1,4 @@
-#! python3
-"""
-@created: 2020-10-12 07:36:35
-@author: Prajjwal Pathak ( pyGuru )
 
-Covid Tracker
-
--------------------------------------------------------------------------------
-Dependencies:
 
 * Requests, BeautifulSoup4, Pandas and Matplotlib
 
